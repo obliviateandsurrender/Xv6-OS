@@ -43,12 +43,12 @@ output.
 
 ## General Notes:
 
-**1.** The xv6 OS base code can be downloaded from https://github.com/mit-pdos/xv6-
+1. The xv6 OS base code can be downloaded from https://github.com/mit-pdos/xv6-
     public
-**2.** Whenever you add new files do not forget to add them to the Makefile so that they
+2. Whenever you add new files do not forget to add them to the Makefile so that they
     get included in the build.
-**3.** Documentation - [https://pdos.csail.mit.edu/6.828/2011/xv6/book-rev6.pdf](https://pdos.csail.mit.edu/6.828/2011/xv6/book-rev6.pdf)
-**4.** File Docs - [http://www.cse.iitd.ernet.in/~sbansal/os/previous_years/2011/xv6_html/](http://www.cse.iitd.ernet.in/~sbansal/os/previous_years/2011/xv6_html/)
+3. Documentation - [https://pdos.csail.mit.edu/6.828/2011/xv6/book-rev6.pdf](https://pdos.csail.mit.edu/6.828/2011/xv6/book-rev6.pdf)
+4. File Docs - [http://www.cse.iitd.ernet.in/~sbansal/os/previous_years/2011/xv6_html/](http://www.cse.iitd.ernet.in/~sbansal/os/previous_years/2011/xv6_html/)
     files.html
 
 ## Information:
